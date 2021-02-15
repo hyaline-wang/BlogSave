@@ -62,7 +62,7 @@
   <link rel="assets" href="https://github.githubassets.com/">
   
 
-  <meta name="request-id" content="6C43:08FA:1594EE8:197B260:602ABA4D" data-pjax-transient="true"/><meta name="html-safe-nonce" content="689d6494ca824bd55471d9eb6feb69c64e88b1fbcba6550ec4794b1fba2202f4" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI2QzQzOjA4RkE6MTU5NEVFODoxOTdCMjYwOjYwMkFCQTREIiwidmlzaXRvcl9pZCI6IjU0OTYzOTk3OTIxMDg2NDkwMzciLCJyZWdpb25fZWRnZSI6ImFwLXNvdXRoZWFzdC0xIiwicmVnaW9uX3JlbmRlciI6ImFwLXNvdXRoZWFzdC0xIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="eeff4aa662167876be5d5377f4248f13bfa6580f8c4781566741bed0b63f548d" data-pjax-transient="true"/>
+  <meta name="request-id" content="6E6D:3F78:D99585:FF44F0:602AC10D" data-pjax-transient="true"/><meta name="html-safe-nonce" content="cd90945ab6685f5e513f13bd59ebb2370abc867cb7f53444081aed49bdd7ace4" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI2RTZEOjNGNzg6RDk5NTg1OkZGNDRGMDo2MDJBQzEwRCIsInZpc2l0b3JfaWQiOiI1MzkzMDEzNDc4MjUzMDUyMTczIiwicmVnaW9uX2VkZ2UiOiJhcC1zb3V0aGVhc3QtMSIsInJlZ2lvbl9yZW5kZXIiOiJhcC1zb3V0aGVhc3QtMSJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="1c6046472facf430a7af640835528ba8bea2fbacd94a58d7c0e7f0ca402a99d8" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:113965016" data-pjax-transient>
 
@@ -308,7 +308,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="M8zOYMtkUAtfa6qQqaH8p2r1F8PpZYDNc+oC9GJOFyvtiWdNGkV2w1NZKndCMbLDSuqQfTzPN5NJeuO/aKuc7g==" />
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="uvylhhAz5l7FOwpUWhqLgKH/Nlck46z07fGsJB9cj8jk2y6qeiKv5PDomATHXiOHZldrD9dfJHr7k2sx8AFeWQ==" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -813,7 +813,7 @@
         </li>
         <li class="mt-3">
           
-<details class="details-reset details-overlay select-menu" id="tag-select-menu-d04a9250-6fb9-11eb-8cf2-0df051a95c04">
+<details class="details-reset details-overlay select-menu" id="tag-select-menu-d667af02-6fbd-11eb-97c0-972627e1f30b">
   <summary class="btn btn-sm select-menu-button text-md-left" title="Compare">
     <i>Compare</i>
   </summary>
@@ -826,12 +826,12 @@
     <div class="select-menu-filters">
       <remote-input class="select-menu-text-filter"
         src="/Molunerfinn/PicGo/compare/tag-list?range=v2.3.0-beta.4&amp;tag_name=v2.3.0-beta.4&amp;type=base"
-        aria-owns="tags-menu-d04a9250-6fb9-11eb-8cf2-0df051a95c04">
+        aria-owns="tags-menu-d667af02-6fbd-11eb-97c0-972627e1f30b">
         <input type="text" class="form-control" aria-label="Find a tag" placeholder="Find a tag" autofocus>
       </remote-input>
     </div>
 
-    <div class="select-menu-list" id="tags-menu-d04a9250-6fb9-11eb-8cf2-0df051a95c04">
+    <div class="select-menu-list" id="tags-menu-d667af02-6fbd-11eb-97c0-972627e1f30b">
       <div class="p-2">Search for a tag</div>
     </div>
   </details-menu>
@@ -869,7 +869,7 @@
           </li>
           <li>
             
-<details class="details-reset details-overlay select-menu" id="tag-select-menu-d04aa010-6fb9-11eb-94c5-2002afba2e10">
+<details class="details-reset details-overlay select-menu" id="tag-select-menu-d667c03c-6fbd-11eb-95c9-e0cda0123113">
   <summary class="btn btn-sm select-menu-button text-md-left" title="Compare">
     <i>Compare</i>
   </summary>
@@ -882,12 +882,12 @@
     <div class="select-menu-filters">
       <remote-input class="select-menu-text-filter"
         src="/Molunerfinn/PicGo/compare/tag-list?range=v2.3.0-beta.4&amp;tag_name=v2.3.0-beta.4&amp;type=base"
-        aria-owns="tags-menu-d04aa010-6fb9-11eb-94c5-2002afba2e10">
+        aria-owns="tags-menu-d667c03c-6fbd-11eb-95c9-e0cda0123113">
         <input type="text" class="form-control" aria-label="Find a tag" placeholder="Find a tag" autofocus>
       </remote-input>
     </div>
 
-    <div class="select-menu-list" id="tags-menu-d04aa010-6fb9-11eb-94c5-2002afba2e10">
+    <div class="select-menu-list" id="tags-menu-d667c03c-6fbd-11eb-95c9-e0cda0123113">
       <div class="p-2">Search for a tag</div>
     </div>
   </details-menu>
@@ -1072,7 +1072,7 @@
         </li>
         <li class="mt-3">
           
-<details class="details-reset details-overlay select-menu" id="tag-select-menu-d04bac08-6fb9-11eb-90b9-546da7b97263">
+<details class="details-reset details-overlay select-menu" id="tag-select-menu-d669208a-6fbd-11eb-8b1d-9e8a9f8533db">
   <summary class="btn btn-sm select-menu-button text-md-left" title="Compare">
     <i>Compare</i>
   </summary>
@@ -1085,12 +1085,12 @@
     <div class="select-menu-filters">
       <remote-input class="select-menu-text-filter"
         src="/Molunerfinn/PicGo/compare/tag-list?range=v2.3.0-beta.3&amp;tag_name=v2.3.0-beta.3&amp;type=base"
-        aria-owns="tags-menu-d04bac08-6fb9-11eb-90b9-546da7b97263">
+        aria-owns="tags-menu-d669208a-6fbd-11eb-8b1d-9e8a9f8533db">
         <input type="text" class="form-control" aria-label="Find a tag" placeholder="Find a tag" autofocus>
       </remote-input>
     </div>
 
-    <div class="select-menu-list" id="tags-menu-d04bac08-6fb9-11eb-90b9-546da7b97263">
+    <div class="select-menu-list" id="tags-menu-d669208a-6fbd-11eb-8b1d-9e8a9f8533db">
       <div class="p-2">Search for a tag</div>
     </div>
   </details-menu>
@@ -1125,7 +1125,7 @@
           </li>
           <li>
             
-<details class="details-reset details-overlay select-menu" id="tag-select-menu-d04bb478-6fb9-11eb-8ae7-247eaba62874">
+<details class="details-reset details-overlay select-menu" id="tag-select-menu-d6692c06-6fbd-11eb-9a2a-a17af435d39f">
   <summary class="btn btn-sm select-menu-button text-md-left" title="Compare">
     <i>Compare</i>
   </summary>
@@ -1138,12 +1138,12 @@
     <div class="select-menu-filters">
       <remote-input class="select-menu-text-filter"
         src="/Molunerfinn/PicGo/compare/tag-list?range=v2.3.0-beta.3&amp;tag_name=v2.3.0-beta.3&amp;type=base"
-        aria-owns="tags-menu-d04bb478-6fb9-11eb-8ae7-247eaba62874">
+        aria-owns="tags-menu-d6692c06-6fbd-11eb-9a2a-a17af435d39f">
         <input type="text" class="form-control" aria-label="Find a tag" placeholder="Find a tag" autofocus>
       </remote-input>
     </div>
 
-    <div class="select-menu-list" id="tags-menu-d04bb478-6fb9-11eb-8ae7-247eaba62874">
+    <div class="select-menu-list" id="tags-menu-d6692c06-6fbd-11eb-9a2a-a17af435d39f">
       <div class="p-2">Search for a tag</div>
     </div>
   </details-menu>
@@ -1321,7 +1321,7 @@
         </li>
         <li class="mt-3">
           
-<details class="details-reset details-overlay select-menu" id="tag-select-menu-d04c8a2e-6fb9-11eb-8174-d688ff97e044">
+<details class="details-reset details-overlay select-menu" id="tag-select-menu-d66a3844-6fbd-11eb-985a-a6a519175fcc">
   <summary class="btn btn-sm select-menu-button text-md-left" title="Compare">
     <i>Compare</i>
   </summary>
@@ -1334,12 +1334,12 @@
     <div class="select-menu-filters">
       <remote-input class="select-menu-text-filter"
         src="/Molunerfinn/PicGo/compare/tag-list?range=v2.3.0-beta.2&amp;tag_name=v2.3.0-beta.2&amp;type=base"
-        aria-owns="tags-menu-d04c8a2e-6fb9-11eb-8174-d688ff97e044">
+        aria-owns="tags-menu-d66a3844-6fbd-11eb-985a-a6a519175fcc">
         <input type="text" class="form-control" aria-label="Find a tag" placeholder="Find a tag" autofocus>
       </remote-input>
     </div>
 
-    <div class="select-menu-list" id="tags-menu-d04c8a2e-6fb9-11eb-8174-d688ff97e044">
+    <div class="select-menu-list" id="tags-menu-d66a3844-6fbd-11eb-985a-a6a519175fcc">
       <div class="p-2">Search for a tag</div>
     </div>
   </details-menu>
@@ -1374,7 +1374,7 @@
           </li>
           <li>
             
-<details class="details-reset details-overlay select-menu" id="tag-select-menu-d04c944c-6fb9-11eb-8617-7281adf065f9">
+<details class="details-reset details-overlay select-menu" id="tag-select-menu-d66a42f8-6fbd-11eb-950f-97a55e04c4f7">
   <summary class="btn btn-sm select-menu-button text-md-left" title="Compare">
     <i>Compare</i>
   </summary>
@@ -1387,12 +1387,12 @@
     <div class="select-menu-filters">
       <remote-input class="select-menu-text-filter"
         src="/Molunerfinn/PicGo/compare/tag-list?range=v2.3.0-beta.2&amp;tag_name=v2.3.0-beta.2&amp;type=base"
-        aria-owns="tags-menu-d04c944c-6fb9-11eb-8617-7281adf065f9">
+        aria-owns="tags-menu-d66a42f8-6fbd-11eb-950f-97a55e04c4f7">
         <input type="text" class="form-control" aria-label="Find a tag" placeholder="Find a tag" autofocus>
       </remote-input>
     </div>
 
-    <div class="select-menu-list" id="tags-menu-d04c944c-6fb9-11eb-8617-7281adf065f9">
+    <div class="select-menu-list" id="tags-menu-d66a42f8-6fbd-11eb-950f-97a55e04c4f7">
       <div class="p-2">Search for a tag</div>
     </div>
   </details-menu>
@@ -1579,7 +1579,7 @@
         </li>
         <li class="mt-3">
           
-<details class="details-reset details-overlay select-menu" id="tag-select-menu-d04d7326-6fb9-11eb-9198-cb90678453d2">
+<details class="details-reset details-overlay select-menu" id="tag-select-menu-d66b6264-6fbd-11eb-924b-bd304916b3a9">
   <summary class="btn btn-sm select-menu-button text-md-left" title="Compare">
     <i>Compare</i>
   </summary>
@@ -1592,12 +1592,12 @@
     <div class="select-menu-filters">
       <remote-input class="select-menu-text-filter"
         src="/Molunerfinn/PicGo/compare/tag-list?range=v2.3.0-beta.1&amp;tag_name=v2.3.0-beta.1&amp;type=base"
-        aria-owns="tags-menu-d04d7326-6fb9-11eb-9198-cb90678453d2">
+        aria-owns="tags-menu-d66b6264-6fbd-11eb-924b-bd304916b3a9">
         <input type="text" class="form-control" aria-label="Find a tag" placeholder="Find a tag" autofocus>
       </remote-input>
     </div>
 
-    <div class="select-menu-list" id="tags-menu-d04d7326-6fb9-11eb-9198-cb90678453d2">
+    <div class="select-menu-list" id="tags-menu-d66b6264-6fbd-11eb-924b-bd304916b3a9">
       <div class="p-2">Search for a tag</div>
     </div>
   </details-menu>
@@ -1632,7 +1632,7 @@
           </li>
           <li>
             
-<details class="details-reset details-overlay select-menu" id="tag-select-menu-d04d7c7c-6fb9-11eb-9702-13d912453656">
+<details class="details-reset details-overlay select-menu" id="tag-select-menu-d66b6e3a-6fbd-11eb-9437-0f17935cd554">
   <summary class="btn btn-sm select-menu-button text-md-left" title="Compare">
     <i>Compare</i>
   </summary>
@@ -1645,12 +1645,12 @@
     <div class="select-menu-filters">
       <remote-input class="select-menu-text-filter"
         src="/Molunerfinn/PicGo/compare/tag-list?range=v2.3.0-beta.1&amp;tag_name=v2.3.0-beta.1&amp;type=base"
-        aria-owns="tags-menu-d04d7c7c-6fb9-11eb-9702-13d912453656">
+        aria-owns="tags-menu-d66b6e3a-6fbd-11eb-9437-0f17935cd554">
         <input type="text" class="form-control" aria-label="Find a tag" placeholder="Find a tag" autofocus>
       </remote-input>
     </div>
 
-    <div class="select-menu-list" id="tags-menu-d04d7c7c-6fb9-11eb-9702-13d912453656">
+    <div class="select-menu-list" id="tags-menu-d66b6e3a-6fbd-11eb-9437-0f17935cd554">
       <div class="p-2">Search for a tag</div>
     </div>
   </details-menu>
@@ -1835,7 +1835,7 @@
         </li>
         <li class="mt-3">
           
-<details class="details-reset details-overlay select-menu" id="tag-select-menu-d04e51ec-6fb9-11eb-8ecd-65f2ec72dc5e">
+<details class="details-reset details-overlay select-menu" id="tag-select-menu-d66ca98a-6fbd-11eb-9ff1-d734d47697a7">
   <summary class="btn btn-sm select-menu-button text-md-left" title="Compare">
     <i>Compare</i>
   </summary>
@@ -1848,12 +1848,12 @@
     <div class="select-menu-filters">
       <remote-input class="select-menu-text-filter"
         src="/Molunerfinn/PicGo/compare/tag-list?range=v2.3.0-beta.0&amp;tag_name=v2.3.0-beta.0&amp;type=base"
-        aria-owns="tags-menu-d04e51ec-6fb9-11eb-8ecd-65f2ec72dc5e">
+        aria-owns="tags-menu-d66ca98a-6fbd-11eb-9ff1-d734d47697a7">
         <input type="text" class="form-control" aria-label="Find a tag" placeholder="Find a tag" autofocus>
       </remote-input>
     </div>
 
-    <div class="select-menu-list" id="tags-menu-d04e51ec-6fb9-11eb-8ecd-65f2ec72dc5e">
+    <div class="select-menu-list" id="tags-menu-d66ca98a-6fbd-11eb-9ff1-d734d47697a7">
       <div class="p-2">Search for a tag</div>
     </div>
   </details-menu>
@@ -1888,7 +1888,7 @@
           </li>
           <li>
             
-<details class="details-reset details-overlay select-menu" id="tag-select-menu-d04e5a48-6fb9-11eb-8b23-1d42ff7e1711">
+<details class="details-reset details-overlay select-menu" id="tag-select-menu-d66cb8a8-6fbd-11eb-825f-f74c026e0bc0">
   <summary class="btn btn-sm select-menu-button text-md-left" title="Compare">
     <i>Compare</i>
   </summary>
@@ -1901,12 +1901,12 @@
     <div class="select-menu-filters">
       <remote-input class="select-menu-text-filter"
         src="/Molunerfinn/PicGo/compare/tag-list?range=v2.3.0-beta.0&amp;tag_name=v2.3.0-beta.0&amp;type=base"
-        aria-owns="tags-menu-d04e5a48-6fb9-11eb-8b23-1d42ff7e1711">
+        aria-owns="tags-menu-d66cb8a8-6fbd-11eb-825f-f74c026e0bc0">
         <input type="text" class="form-control" aria-label="Find a tag" placeholder="Find a tag" autofocus>
       </remote-input>
     </div>
 
-    <div class="select-menu-list" id="tags-menu-d04e5a48-6fb9-11eb-8b23-1d42ff7e1711">
+    <div class="select-menu-list" id="tags-menu-d66cb8a8-6fbd-11eb-825f-f74c026e0bc0">
       <div class="p-2">Search for a tag</div>
     </div>
   </details-menu>
@@ -2095,7 +2095,7 @@
         </li>
         <li class="mt-3">
           
-<details class="details-reset details-overlay select-menu" id="tag-select-menu-d04f2aa4-6fb9-11eb-871c-b0a8eda3c3fc">
+<details class="details-reset details-overlay select-menu" id="tag-select-menu-d66dd490-6fbd-11eb-9bcb-e7ae04d8e079">
   <summary class="btn btn-sm select-menu-button text-md-left" title="Compare">
     <i>Compare</i>
   </summary>
@@ -2108,12 +2108,12 @@
     <div class="select-menu-filters">
       <remote-input class="select-menu-text-filter"
         src="/Molunerfinn/PicGo/compare/tag-list?range=v2.2.2&amp;tag_name=v2.2.2&amp;type=base"
-        aria-owns="tags-menu-d04f2aa4-6fb9-11eb-871c-b0a8eda3c3fc">
+        aria-owns="tags-menu-d66dd490-6fbd-11eb-9bcb-e7ae04d8e079">
         <input type="text" class="form-control" aria-label="Find a tag" placeholder="Find a tag" autofocus>
       </remote-input>
     </div>
 
-    <div class="select-menu-list" id="tags-menu-d04f2aa4-6fb9-11eb-871c-b0a8eda3c3fc">
+    <div class="select-menu-list" id="tags-menu-d66dd490-6fbd-11eb-9bcb-e7ae04d8e079">
       <div class="p-2">Search for a tag</div>
     </div>
   </details-menu>
@@ -2148,7 +2148,7 @@
           </li>
           <li>
             
-<details class="details-reset details-overlay select-menu" id="tag-select-menu-d04f3396-6fb9-11eb-90bb-1557030216e3">
+<details class="details-reset details-overlay select-menu" id="tag-select-menu-d66de9ee-6fbd-11eb-9958-b34f6385deeb">
   <summary class="btn btn-sm select-menu-button text-md-left" title="Compare">
     <i>Compare</i>
   </summary>
@@ -2161,12 +2161,12 @@
     <div class="select-menu-filters">
       <remote-input class="select-menu-text-filter"
         src="/Molunerfinn/PicGo/compare/tag-list?range=v2.2.2&amp;tag_name=v2.2.2&amp;type=base"
-        aria-owns="tags-menu-d04f3396-6fb9-11eb-90bb-1557030216e3">
+        aria-owns="tags-menu-d66de9ee-6fbd-11eb-9958-b34f6385deeb">
         <input type="text" class="form-control" aria-label="Find a tag" placeholder="Find a tag" autofocus>
       </remote-input>
     </div>
 
-    <div class="select-menu-list" id="tags-menu-d04f3396-6fb9-11eb-90bb-1557030216e3">
+    <div class="select-menu-list" id="tags-menu-d66de9ee-6fbd-11eb-9958-b34f6385deeb">
       <div class="p-2">Search for a tag</div>
     </div>
   </details-menu>
@@ -2355,7 +2355,7 @@
         </li>
         <li class="mt-3">
           
-<details class="details-reset details-overlay select-menu" id="tag-select-menu-d050184c-6fb9-11eb-8d5f-429d9b881b5e">
+<details class="details-reset details-overlay select-menu" id="tag-select-menu-d66f3600-6fbd-11eb-9e7b-6fe438c9da5c">
   <summary class="btn btn-sm select-menu-button text-md-left" title="Compare">
     <i>Compare</i>
   </summary>
@@ -2368,12 +2368,12 @@
     <div class="select-menu-filters">
       <remote-input class="select-menu-text-filter"
         src="/Molunerfinn/PicGo/compare/tag-list?range=v2.2.1&amp;tag_name=v2.2.1&amp;type=base"
-        aria-owns="tags-menu-d050184c-6fb9-11eb-8d5f-429d9b881b5e">
+        aria-owns="tags-menu-d66f3600-6fbd-11eb-9e7b-6fe438c9da5c">
         <input type="text" class="form-control" aria-label="Find a tag" placeholder="Find a tag" autofocus>
       </remote-input>
     </div>
 
-    <div class="select-menu-list" id="tags-menu-d050184c-6fb9-11eb-8d5f-429d9b881b5e">
+    <div class="select-menu-list" id="tags-menu-d66f3600-6fbd-11eb-9e7b-6fe438c9da5c">
       <div class="p-2">Search for a tag</div>
     </div>
   </details-menu>
@@ -2408,7 +2408,7 @@
           </li>
           <li>
             
-<details class="details-reset details-overlay select-menu" id="tag-select-menu-d050217a-6fb9-11eb-8bd9-8cd4674d8f81">
+<details class="details-reset details-overlay select-menu" id="tag-select-menu-d66f4398-6fbd-11eb-928b-caa316da762b">
   <summary class="btn btn-sm select-menu-button text-md-left" title="Compare">
     <i>Compare</i>
   </summary>
@@ -2421,12 +2421,12 @@
     <div class="select-menu-filters">
       <remote-input class="select-menu-text-filter"
         src="/Molunerfinn/PicGo/compare/tag-list?range=v2.2.1&amp;tag_name=v2.2.1&amp;type=base"
-        aria-owns="tags-menu-d050217a-6fb9-11eb-8bd9-8cd4674d8f81">
+        aria-owns="tags-menu-d66f4398-6fbd-11eb-928b-caa316da762b">
         <input type="text" class="form-control" aria-label="Find a tag" placeholder="Find a tag" autofocus>
       </remote-input>
     </div>
 
-    <div class="select-menu-list" id="tags-menu-d050217a-6fb9-11eb-8bd9-8cd4674d8f81">
+    <div class="select-menu-list" id="tags-menu-d66f4398-6fbd-11eb-928b-caa316da762b">
       <div class="p-2">Search for a tag</div>
     </div>
   </details-menu>
@@ -2603,7 +2603,7 @@
         </li>
         <li class="mt-3">
           
-<details class="details-reset details-overlay select-menu" id="tag-select-menu-d0510914-6fb9-11eb-8b16-0efcdb0a206d">
+<details class="details-reset details-overlay select-menu" id="tag-select-menu-d6705cec-6fbd-11eb-93e1-e0c3c5f04548">
   <summary class="btn btn-sm select-menu-button text-md-left" title="Compare">
     <i>Compare</i>
   </summary>
@@ -2616,12 +2616,12 @@
     <div class="select-menu-filters">
       <remote-input class="select-menu-text-filter"
         src="/Molunerfinn/PicGo/compare/tag-list?range=v2.2.0&amp;tag_name=v2.2.0&amp;type=base"
-        aria-owns="tags-menu-d0510914-6fb9-11eb-8b16-0efcdb0a206d">
+        aria-owns="tags-menu-d6705cec-6fbd-11eb-93e1-e0c3c5f04548">
         <input type="text" class="form-control" aria-label="Find a tag" placeholder="Find a tag" autofocus>
       </remote-input>
     </div>
 
-    <div class="select-menu-list" id="tags-menu-d0510914-6fb9-11eb-8b16-0efcdb0a206d">
+    <div class="select-menu-list" id="tags-menu-d6705cec-6fbd-11eb-93e1-e0c3c5f04548">
       <div class="p-2">Search for a tag</div>
     </div>
   </details-menu>
@@ -2656,7 +2656,7 @@
           </li>
           <li>
             
-<details class="details-reset details-overlay select-menu" id="tag-select-menu-d05111e8-6fb9-11eb-8271-cd973992452c">
+<details class="details-reset details-overlay select-menu" id="tag-select-menu-d67066ec-6fbd-11eb-809e-060e92c27f15">
   <summary class="btn btn-sm select-menu-button text-md-left" title="Compare">
     <i>Compare</i>
   </summary>
@@ -2669,12 +2669,12 @@
     <div class="select-menu-filters">
       <remote-input class="select-menu-text-filter"
         src="/Molunerfinn/PicGo/compare/tag-list?range=v2.2.0&amp;tag_name=v2.2.0&amp;type=base"
-        aria-owns="tags-menu-d05111e8-6fb9-11eb-8271-cd973992452c">
+        aria-owns="tags-menu-d67066ec-6fbd-11eb-809e-060e92c27f15">
         <input type="text" class="form-control" aria-label="Find a tag" placeholder="Find a tag" autofocus>
       </remote-input>
     </div>
 
-    <div class="select-menu-list" id="tags-menu-d05111e8-6fb9-11eb-8271-cd973992452c">
+    <div class="select-menu-list" id="tags-menu-d67066ec-6fbd-11eb-809e-060e92c27f15">
       <div class="p-2">Search for a tag</div>
     </div>
   </details-menu>
@@ -2867,7 +2867,7 @@
         </li>
         <li class="mt-3">
           
-<details class="details-reset details-overlay select-menu" id="tag-select-menu-d051f2f2-6fb9-11eb-9359-121865829c19">
+<details class="details-reset details-overlay select-menu" id="tag-select-menu-d67180e0-6fbd-11eb-95f4-7a62a6370627">
   <summary class="btn btn-sm select-menu-button text-md-left" title="Compare">
     <i>Compare</i>
   </summary>
@@ -2880,12 +2880,12 @@
     <div class="select-menu-filters">
       <remote-input class="select-menu-text-filter"
         src="/Molunerfinn/PicGo/compare/tag-list?range=v2.1.2&amp;tag_name=v2.1.2&amp;type=base"
-        aria-owns="tags-menu-d051f2f2-6fb9-11eb-9359-121865829c19">
+        aria-owns="tags-menu-d67180e0-6fbd-11eb-95f4-7a62a6370627">
         <input type="text" class="form-control" aria-label="Find a tag" placeholder="Find a tag" autofocus>
       </remote-input>
     </div>
 
-    <div class="select-menu-list" id="tags-menu-d051f2f2-6fb9-11eb-9359-121865829c19">
+    <div class="select-menu-list" id="tags-menu-d67180e0-6fbd-11eb-95f4-7a62a6370627">
       <div class="p-2">Search for a tag</div>
     </div>
   </details-menu>
@@ -2920,7 +2920,7 @@
           </li>
           <li>
             
-<details class="details-reset details-overlay select-menu" id="tag-select-menu-d051fb58-6fb9-11eb-9432-346caca99a38">
+<details class="details-reset details-overlay select-menu" id="tag-select-menu-d6718afe-6fbd-11eb-9708-035e280c4bfb">
   <summary class="btn btn-sm select-menu-button text-md-left" title="Compare">
     <i>Compare</i>
   </summary>
@@ -2933,12 +2933,12 @@
     <div class="select-menu-filters">
       <remote-input class="select-menu-text-filter"
         src="/Molunerfinn/PicGo/compare/tag-list?range=v2.1.2&amp;tag_name=v2.1.2&amp;type=base"
-        aria-owns="tags-menu-d051fb58-6fb9-11eb-9432-346caca99a38">
+        aria-owns="tags-menu-d6718afe-6fbd-11eb-9708-035e280c4bfb">
         <input type="text" class="form-control" aria-label="Find a tag" placeholder="Find a tag" autofocus>
       </remote-input>
     </div>
 
-    <div class="select-menu-list" id="tags-menu-d051fb58-6fb9-11eb-9432-346caca99a38">
+    <div class="select-menu-list" id="tags-menu-d6718afe-6fbd-11eb-9708-035e280c4bfb">
       <div class="p-2">Search for a tag</div>
     </div>
   </details-menu>
@@ -3120,7 +3120,7 @@
         </li>
         <li class="mt-3">
           
-<details class="details-reset details-overlay select-menu" id="tag-select-menu-d052ca24-6fb9-11eb-9862-64bcf7e9d6ca">
+<details class="details-reset details-overlay select-menu" id="tag-select-menu-d6729a20-6fbd-11eb-9ea2-e94de4e5c2aa">
   <summary class="btn btn-sm select-menu-button text-md-left" title="Compare">
     <i>Compare</i>
   </summary>
@@ -3133,12 +3133,12 @@
     <div class="select-menu-filters">
       <remote-input class="select-menu-text-filter"
         src="/Molunerfinn/PicGo/compare/tag-list?range=v2.1.1&amp;tag_name=v2.1.1&amp;type=base"
-        aria-owns="tags-menu-d052ca24-6fb9-11eb-9862-64bcf7e9d6ca">
+        aria-owns="tags-menu-d6729a20-6fbd-11eb-9ea2-e94de4e5c2aa">
         <input type="text" class="form-control" aria-label="Find a tag" placeholder="Find a tag" autofocus>
       </remote-input>
     </div>
 
-    <div class="select-menu-list" id="tags-menu-d052ca24-6fb9-11eb-9862-64bcf7e9d6ca">
+    <div class="select-menu-list" id="tags-menu-d6729a20-6fbd-11eb-9ea2-e94de4e5c2aa">
       <div class="p-2">Search for a tag</div>
     </div>
   </details-menu>
@@ -3173,7 +3173,7 @@
           </li>
           <li>
             
-<details class="details-reset details-overlay select-menu" id="tag-select-menu-d052d24e-6fb9-11eb-8797-773c4d0bd26b">
+<details class="details-reset details-overlay select-menu" id="tag-select-menu-d672a92a-6fbd-11eb-8f6f-a412cce97131">
   <summary class="btn btn-sm select-menu-button text-md-left" title="Compare">
     <i>Compare</i>
   </summary>
@@ -3186,12 +3186,12 @@
     <div class="select-menu-filters">
       <remote-input class="select-menu-text-filter"
         src="/Molunerfinn/PicGo/compare/tag-list?range=v2.1.1&amp;tag_name=v2.1.1&amp;type=base"
-        aria-owns="tags-menu-d052d24e-6fb9-11eb-8797-773c4d0bd26b">
+        aria-owns="tags-menu-d672a92a-6fbd-11eb-8f6f-a412cce97131">
         <input type="text" class="form-control" aria-label="Find a tag" placeholder="Find a tag" autofocus>
       </remote-input>
     </div>
 
-    <div class="select-menu-list" id="tags-menu-d052d24e-6fb9-11eb-8797-773c4d0bd26b">
+    <div class="select-menu-list" id="tags-menu-d672a92a-6fbd-11eb-8f6f-a412cce97131">
       <div class="p-2">Search for a tag</div>
     </div>
   </details-menu>

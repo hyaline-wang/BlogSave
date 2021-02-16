@@ -43,17 +43,17 @@
 
 1.注册 gitee 账号并创建一个仓库当图床，这里仓库名起了img（我用的是img-save）
 
-![image-20200413213232234](https://github.com/ChasingTheDreamOfLoad/BlogSave/blob/main/images/0.png)
+![image-20200413213232234](https://raw.githubusercontent.com/ChasingTheDreamOfLoad/BlogSave/main/images/typora%2BpicGo%2Bgitee好用的markdown/0.png)
 
 2.**生成私人令牌**
 
 进入设置，如下图，（生成的令牌注意保存）
 
-![image-20200413214032380](https://github.com/ChasingTheDreamOfLoad/BlogSave/blob/main/images/1.png)
+![image-20200413214032380](https://raw.githubusercontent.com/ChasingTheDreamOfLoad/BlogSave/main/images/typora%2BpicGo%2Bgitee好用的markdown/1.png)
 
-![image-20200413214138068](https://github.com/ChasingTheDreamOfLoad/BlogSave/blob/main/images/2.png)
+![image-20200413214138068](https://raw.githubusercontent.com/ChasingTheDreamOfLoad/BlogSave/main/images/typora%2BpicGo%2Bgitee好用的markdown/2.png)
 
-![image-20210203182158683](https://github.com/ChasingTheDreamOfLoad/BlogSave/blob/main/images/3.png)
+![image-20210203182158683](https://raw.githubusercontent.com/ChasingTheDreamOfLoad/BlogSave/main/images/typora%2BpicGo%2Bgitee好用的markdown/3.png)
 
 **（注：令牌只会显示一次，如果不复制的话，就只能重新修改令牌，步骤：修改 --> 重新生成令牌）**
 
@@ -61,23 +61,23 @@
 
 1. 打开picgo（可能打开后没看到界面，看看右下角有没有picgo图标），之后如下所示安装插件，有两个，安装第一个
 
-![image-20210203174720719](https://github.com/ChasingTheDreamOfLoad/BlogSave/blob/main/images/4.png)
+![image-20210203174720719](https://raw.githubusercontent.com/ChasingTheDreamOfLoad/BlogSave/main/images/typora%2BpicGo%2Bgitee好用的markdown/4.png)
 
 2. 安装完之后 点击**图床设置-> gitee图床**进行对应配置：
 
-![image-20210203175613759](https://github.com/ChasingTheDreamOfLoad/BlogSave/blob/main/images/5.png)
+![image-20210203175613759](https://raw.githubusercontent.com/ChasingTheDreamOfLoad/BlogSave/main/images/typora%2BpicGo%2Bgitee好用的markdown/5.png)
 
 要填的内容含义如下所示
 
-![image-20210203180156508](https://github.com/ChasingTheDreamOfLoad/BlogSave/blob/main/images/6.png)
+![image-20210203180156508](https://raw.githubusercontent.com/ChasingTheDreamOfLoad/BlogSave/main/images/typora%2BpicGo%2Bgitee好用的markdown/6.png)
 
-我这里在在根目录下专门建了一个文件夹（img）用来存图片因此我的设置如下所示![image-20210203183456011](https://github.com/ChasingTheDreamOfLoad/BlogSave/blob/main/images/7.png)
+我这里在在根目录下专门建了一个文件夹（img）用来存图片因此我的设置如下所示![image-20210203183456011](https://raw.githubusercontent.com/ChasingTheDreamOfLoad/BlogSave/main/images/typora%2BpicGo%2Bgitee好用的markdown/7.png)
 
-![image-20210203183117657](https://github.com/ChasingTheDreamOfLoad/BlogSave/blob/main/images/8.png)
+![image-20210203183117657](https://raw.githubusercontent.com/ChasingTheDreamOfLoad/BlogSave/main/images/typora%2BpicGo%2Bgitee好用的markdown/8.png)
 
 3. 最后注意设置一下时间戳重命名，不然遇到相同的图片名会很尴尬（上传失败）
 
-![image-20210203181821254](https://github.com/ChasingTheDreamOfLoad/BlogSave/blob/main/images/9.png)
+![image-20210203181821254](https://raw.githubusercontent.com/ChasingTheDreamOfLoad/BlogSave/main/images/typora%2BpicGo%2Bgitee好用的markdown/9.png)
 
 ### typora配置
 
@@ -85,16 +85,16 @@
 
 
 
-![image-20210203180834744](https://github.com/ChasingTheDreamOfLoad/BlogSave/blob/main/images/10.png)
+![image-20210203180834744](https://raw.githubusercontent.com/ChasingTheDreamOfLoad/BlogSave/main/images/typora%2BpicGo%2Bgitee好用的markdown/10.png)
 
 
 
-![image-20210203181947750](https://github.com/ChasingTheDreamOfLoad/BlogSave/blob/main/images/11.png)
+![image-20210203181947750](https://raw.githubusercontent.com/ChasingTheDreamOfLoad/BlogSave/main/images/typora%2BpicGo%2Bgitee好用的markdown/11.png)
 
 上传过程和上传成功后会有提示
 
-![image-20210203181958743](https://github.com/ChasingTheDreamOfLoad/BlogSave/blob/main/images/12.png)
+![image-20210203181958743](https://raw.githubusercontent.com/ChasingTheDreamOfLoad/BlogSave/main/images/typora%2BpicGo%2Bgitee好用的markdown/12.png)
 
-![image-20210203182010277](https://github.com/ChasingTheDreamOfLoad/BlogSave/blob/main/images/13.png)
+![image-20210203182010277](https://raw.githubusercontent.com/ChasingTheDreamOfLoad/BlogSave/main/images/typora%2BpicGo%2Bgitee好用的markdown/13.png)
 
 此时你的typora就可以自动上传了

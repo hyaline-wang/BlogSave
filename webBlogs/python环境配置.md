@@ -7,73 +7,73 @@
 
 1. 开始前请确认自己已经安装了 pycharm +anaconda
 
-2. 首先在桌面创建一个文件夹“conda test”，进入这个文件夹，右键点击open floder as py.......![image-20210123171806309](https://github.com/ChasingTheDreamOfLoad/BlogSave/blob/main/images/0.png)
+2. 首先在桌面创建一个文件夹“conda test”，进入这个文件夹，右键点击open floder as py.......![image-20210123171806309](https://raw.githubusercontent.com/ChasingTheDreamOfLoad/BlogSave/main/images/python环境配置/0.png)
 
    即可打开pycharm ，若不习惯英文，可先汉化 pycharm （[右键+点此跳转至汉化](#chinese)）
 
 3. 首先在pycharm中打开终端(其实cmd 或者 power shell 也行，只要能输命令行)
 
-   ![image-20210123160945727](https://github.com/ChasingTheDreamOfLoad/BlogSave/blob/main/images/1.png)
+   ![image-20210123160945727](https://raw.githubusercontent.com/ChasingTheDreamOfLoad/BlogSave/main/images/python环境配置/1.png)
 
 4. 在终端中输入 conda create -n py3.6 python=3.6  （大致含义为   conda 创建 环境 名称“py3.6” Python版本=3.6，具体含义可通过conda create -h 查看）回车
 
-   ![image-20210123161144078](https://github.com/ChasingTheDreamOfLoad/BlogSave/blob/main/images/2.png)
+   ![image-20210123161144078](https://raw.githubusercontent.com/ChasingTheDreamOfLoad/BlogSave/main/images/python环境配置/2.png)
 
 5. 等待如图所示界面，输入 y 回车，并等待下载完成
 
-   ![image-20210123161232898](https://github.com/ChasingTheDreamOfLoad/BlogSave/blob/main/images/3.png)
+   ![image-20210123161232898](https://raw.githubusercontent.com/ChasingTheDreamOfLoad/BlogSave/main/images/python环境配置/3.png)
 
    
 
 6. 结束后出现如下图所示界面，#部分写了，要进入这个环境 conda activate py3.6 ，要退出一个环境用 conda deactivate
 
-   ![image-20210123163036742](https://github.com/ChasingTheDreamOfLoad/BlogSave/blob/main/images/4.png)
+   ![image-20210123163036742](https://raw.githubusercontent.com/ChasingTheDreamOfLoad/BlogSave/main/images/python环境配置/4.png)
 
 7. 使用 conda activate py3.6进入刚刚创建的环境，若看到如图中所示的（py3.6）字样
 
-   ![image-20210123163102059](https://github.com/ChasingTheDreamOfLoad/BlogSave/blob/main/images/5.png)
+   ![image-20210123163102059](https://raw.githubusercontent.com/ChasingTheDreamOfLoad/BlogSave/main/images/python环境配置/5.png)
 
 8. 测试安装numpy 若下载速度过慢，可更换国内源，[右键+点此跳转至pip换源](#pip)   
 
-   ![image-20210123163947340](https://github.com/ChasingTheDreamOfLoad/BlogSave/blob/main/images/6.png)
+   ![image-20210123163947340](https://raw.githubusercontent.com/ChasingTheDreamOfLoad/BlogSave/main/images/python环境配置/6.png)
 
 9. 现在正式开始pycharm的配置，如下图所示进入设置
 
-   ![image-20210123160550347](https://github.com/ChasingTheDreamOfLoad/BlogSave/blob/main/images/7.png)
+   ![image-20210123160550347](https://raw.githubusercontent.com/ChasingTheDreamOfLoad/BlogSave/main/images/python环境配置/7.png)
 
-10. 如下图所示，找到下图所示界面，此时并没有python解释器可以用![image-20210123160643093](https://github.com/ChasingTheDreamOfLoad/BlogSave/blob/main/images/8.png)
+10. 如下图所示，找到下图所示界面，此时并没有python解释器可以用![image-20210123160643093](https://raw.githubusercontent.com/ChasingTheDreamOfLoad/BlogSave/main/images/python环境配置/8.png)
 
 11. 点击下图所示界面 ->添加
 
-    ![img](https://github.com/ChasingTheDreamOfLoad/BlogSave/blob/main/images/9.png)
+    ![img](https://raw.githubusercontent.com/ChasingTheDreamOfLoad/BlogSave/main/images/python环境配置/9.png)
 
     
 
 12. 选择conda环境->现有环境，现在看到如下图所示界面，寻找刚刚创建的环境需要一些时间
 
-    ![image-20210123170708775](https://github.com/ChasingTheDreamOfLoad/BlogSave/blob/main/images/10.png)
+    ![image-20210123170708775](https://raw.githubusercontent.com/ChasingTheDreamOfLoad/BlogSave/main/images/python环境配置/10.png)
 
 13. 当寻找到环境后可看到如下图所示界面，（路径可能略有不同）点击确定
 
-    ![image-20210123170728760](https://github.com/ChasingTheDreamOfLoad/BlogSave/blob/main/images/11.png)
+    ![image-20210123170728760](https://raw.githubusercontent.com/ChasingTheDreamOfLoad/BlogSave/main/images/python环境配置/11.png)
 
 14. 再次确定，即可回到主界面
 
-    ![image-20210123170757573](https://github.com/ChasingTheDreamOfLoad/BlogSave/blob/main/images/12.png)
+    ![image-20210123170757573](https://raw.githubusercontent.com/ChasingTheDreamOfLoad/BlogSave/main/images/python环境配置/12.png)
 
 ## <span id="chinese">pycharm 汉化</span>
 
 1.部分来自网络，在pycharm中点击file->settings，得到如下所示画面，按图中步骤操作（不要第5步）
 
-![最新PyCharm从安装到PyCharm永久激活再到PyCharm官方中文汉化详细教程](https://github.com/ChasingTheDreamOfLoad/BlogSave/blob/main/images/13.png)
+![最新PyCharm从安装到PyCharm永久激活再到PyCharm官方中文汉化详细教程](https://raw.githubusercontent.com/ChasingTheDreamOfLoad/BlogSave/main/images/python环境配置/13.png)
 
 安装完成后如下图所示 restart 即可
 
-![最新PyCharm从安装到PyCharm永久激活再到PyCharm官方中文汉化详细教程](https://github.com/ChasingTheDreamOfLoad/BlogSave/blob/main/images/14.png)
+![最新PyCharm从安装到PyCharm永久激活再到PyCharm官方中文汉化详细教程](https://raw.githubusercontent.com/ChasingTheDreamOfLoad/BlogSave/main/images/python环境配置/14.png)
 
 效果如下所示
 
-![image-20210123160329193](https://github.com/ChasingTheDreamOfLoad/BlogSave/blob/main/images/15.png)
+![image-20210123160329193](https://raw.githubusercontent.com/ChasingTheDreamOfLoad/BlogSave/main/images/python环境配置/15.png)
 
 ## <span id="pip">pip换源</span>
 

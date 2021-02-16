@@ -4,6 +4,7 @@ import codecs
 import requests
 import time
 import sys
+from urllib import parse
 
 img_dir = '..\\images'
 blog_dir = '..\\blogs'''
@@ -28,7 +29,7 @@ def create_dir(path):
         os.makedirs(path)
         print('create folder :' + path)
     else:
-        print('the folder already exists'+'(%s)'%(path))
+        print('the folder already exists' + '(%s)' % (path))
 
 
 def get_all_md_path(path):
@@ -82,8 +83,13 @@ if __name__ == '__main__':
         print('正在下载图片')
         for u, url in enumerate(img_paths):
             # print('第%d张' % u)
-            web_url = "https://github.com/ChasingTheDreamOfLoad/BlogSave/blob/main/images/"
-            web_md_text = re.sub(url, web_url + str(u) + '.png', web_md_text)
+            # title_web = parse.quote(title)
+            web_url = "https://raw.githubusercontent.com/ChasingTheDreamOfLoad/BlogSave/main/images/" + title + '/' + str(
+                u) + '.png'
+            web_url = web_url.replace('+', '%2B')
+            # web_url = parse.quote(web_url)
+            web_md_text = web_md_text.replace(url, web_url)
+            # web_md_text = re.sub(url, web_url, web_md_text)
             # print(local_md_text)
             # print(url)
             # print(img_root_dir + '\\'+str(u)+'.png')
